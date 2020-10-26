@@ -5,8 +5,8 @@ ASHRAR- Great Energy Predictor mainly deals with finding accurate models of mete
 - The Fully connected MLP is our best performing model.
 
 
-Dataset available at:
+- Dataset available at:
 https://www.kaggle.com/c/ashrae-energy-prediction
 
 
-Use the files under folder data to obtain train and test .csv files which are used as a testbench for training and testing our models
+- Use the files under folder data to obtain train and test .csv files which are used as a testbench for training and testing our models
