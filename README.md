@@ -12,10 +12,15 @@ https://www.kaggle.com/c/ashrae-energy-prediction
 - Use the files under data folder to obtain train and test .csv files which are used as a testbench for training and testing of 3 models.
 These files include:
 building_metadata
+
 sample_submission
+
 test
+
 train
+
 weather_test
+
 weather_train
 
 - Baseline code and analysis links:
