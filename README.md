@@ -9,4 +9,10 @@ ASHRAR- Great Energy Predictor mainly deals with finding accurate models of mete
 https://www.kaggle.com/c/ashrae-energy-prediction
 
 
-- Use the files under folder data to obtain train and test .csv files which are used as a testbench for training and testing our models
+- Use the files under data folder to obtain train and test .csv files which are used as a testbench for training and testing of 3 models.
+
+- Baseline code and analysis links:
+
+ https://www.kaggle.com/jaseziv83/a-deep-dive-eda-into-all-variables
+ 
+ https://www.kaggle.com/isaienkov/keras-nn-with-embeddings-for-cat-features-1-15
