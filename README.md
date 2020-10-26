@@ -23,6 +23,6 @@ These files include:
  
  https://www.kaggle.com/isaienkov/keras-nn-with-embeddings-for-cat-features-1-15
  
- - 3 Different Models are developed along with several trial and error optimization strategies for hyperparameter tuning 
+ - 3 Different Models are developed along with several trial and error optimization strategies for hyperparameter tuning are carried out
  
  - Fully Connected MLP is observed to have the best possible results when compared to Gradient boosting decision tree model and LSTM
